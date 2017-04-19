@@ -1,6 +1,6 @@
 # npmtest-address
 
-#### test coverage for  [address (v1.0.1)](https://github.com/node-modules/address#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-address.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-address) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-address.svg)](https://travis-ci.org/npmtest/node-npmtest-address)
+#### basic test coverage for  [address (v1.0.1)](https://github.com/node-modules/address#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-address.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-address) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-address.svg)](https://travis-ci.org/npmtest/node-npmtest-address)
 
 #### Get current machine IP, MAC and DNS servers.
 
